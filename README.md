@@ -1,10 +1,11 @@
 Movie Data Analysis
+https://www.google.com/url?sa=i&url=http%3A%2F%2Fwww.prettyokpod.com%2Fpodcast%2F2021%2F1%2F7%2Fep-255-big-screen-blues&psig=AOvVaw3TDXwoLEKBMlYxTIN_vk7y&ust=1631816878206000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCKjqrePNgfMCFQAAAAAdAAAAABAE
 Authors: Paul Shin, Derek Supino and Stephen William
 
 Overview:
 This project analysis data on 
 
-
+keys to a sucessfull and profitable movie
 
 Source of data:
 One data frame taken from https://www.boxofficemojo.com/ containing movie box office gross
