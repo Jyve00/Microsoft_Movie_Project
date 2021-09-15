@@ -106,4 +106,5 @@ Branch Stephen organized files into seprate folders.
 Branch Stephen push to main
 On Main Branch git commit -m "added .ipynb_checkpoints and DS_Store to .gitignore"
 On main branch git commit -m "moving .ipynb_checkpoints to .gitignore"
+From Branch Derek push Movie_Project_Draft.ipynb to main
 
