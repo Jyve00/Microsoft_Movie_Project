@@ -1,8 +1,14 @@
-# Title
+# Movie Analysis for Microsoft
 
-**Authors**: Student1, Student2
+**Authors**: Paul Shin, Derek Supino and Stephen William
 
 ## Overview
+
+This is a project to provide Microsoft with a guide on what goes into creating and releasing a sucessfull movie based on data pulled from several reputable sources. Microsoft has launched its own movie studio but they don't know what tpye of film to release or even who to hire to help create a profitable film. The data was cleaned, organized and analysised to find out what the most sucessfull films of all time had in common with each other. With this information we can present the head of Microsoft's new movie studio what they can do to guarentee a sucessfull movie release.
+
+
+
+
 
 A one-paragraph overview of the project, including the business problem, data, methods, results and recommendations.
 
