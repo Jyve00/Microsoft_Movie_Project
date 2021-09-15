@@ -28,7 +28,17 @@ Questions to consider:
 
 ## Data
 
-Describe the data being used for this project.
+----Describe the data being used for this project.
+
+
+https://www.kaggle.com/stefanoleone992/imdb-extensive-dataset
+https://www.imdb.com/interfaces/
+
+
+
+
+
+
 
 ***
 Questions to consider:
