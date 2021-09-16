@@ -70,6 +70,9 @@ Questions to consider:
 
 The results that we came up with based on our analytics is when is the best month to release a movie of a certain genre that typically brings in a large worldwide gross. We came to these rusults by finding the genres that produce the most profit and find the best performing months for those genres. So we can recomend to Microsoft that making an Animation movie will most likely generate a profit and to ensure that the movie will perform as best as it can we can also recomend that Microsoft release an Animated film in the month of June because based on historic data, Animated movies bring in the most Box Office Gross in the month of June. 
 
+Another result that we came up with is what directors are associated with generating the most profits. Through our analysis we discovered that the top 50 directors based on movie profits is responsible for 46% of total box office profits across all movies in our datasets released since 2010. 
+
+
 
 
 
