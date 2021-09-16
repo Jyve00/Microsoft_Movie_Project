@@ -132,4 +132,8 @@ On Main Branch git commit -m "added .ipynb_checkpoints and DS_Store to .gitignor
 On main branch git commit -m "moving .ipynb_checkpoints to .gitignore"
 From Branch Derek push Movie_Project_Draft.ipynb to main
 Main branch merged with branch Stephen
+git commit -m "adding 3in1 bar chart"
+git commit -m "graphs and charts saved in visuals"
+Paul Branch Push Movie_Project_Draft updated with 3 in 1 bar chart
+
 
