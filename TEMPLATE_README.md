@@ -4,6 +4,7 @@
 
 https://images.squarespace-cdn.com/content/v1/5817f843579fb366cecb8e9a/1610030522633-QNYMAAV89SWZ97BJW46C/theater.jpg?format=1000w
 
+
 ## Overview
 
 This is a project to provide Microsoft with a guide on what goes into creating and releasing a sucessfull movie based on data pulled from several reputable sources. Microsoft has launched its own movie studio but they don't know what tpye of film to release or even who to hire to help create a profitable film. The data was cleaned, organized and analysised to find out what the most sucessfull films of all time had in common with each other. With this information we can present the head of Microsoft's new movie studio what they can do to guarentee a sucessfull movie release.
@@ -15,6 +16,11 @@ This is a project to provide Microsoft with a guide on what goes into creating a
 
 Micosoft's new film studio has just launched and they are trying to release a sucessfull movie but don't know where to start. With the data we collected and analysed we where able to come up with some questions that we thought where important to a sucessfull movie like "What months generate the most worldwide gross?", "What genres brings in the most profit?", and "What directors have brought in the biggest profits?". We believe these are the most important questions for a new film studio to ask because overall these are variables that can be closely connected to generating a profit.
 
+We have 3 deliverables for the directors of the Microsoft Studio:
+
+1. Suggest which types of films are worth focusing on by establishing which genre makes the most profit.
+2. Analyze the monthly average return on investment rate for the suggested genre to determine which month has the best chance of earning profit.
+3. Evaluate how much do the top 50 directors contribute to the total profit to study the impact of the director on the movie production. 
 
 
 -----Summary of the business problem you are trying to solve, and the data questions that you plan to answer in order to solve them.
