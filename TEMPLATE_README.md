@@ -17,10 +17,9 @@ This is a project to provide Microsoft with a guide on what goes into creating a
 Micosoft's new film studio has just launched and they are trying to release a sucessfull movie but don't know where to start. With the data we collected and analysed we where able to come up with some questions that we thought where important to a sucessfull movie like "What months generate the most worldwide gross?", "What genres brings in the most profit?", and "What directors have brought in the biggest profits?". We believe these are the most important questions for a new film studio to ask because overall these are variables that can be closely connected to generating a profit.
 
 We have 3 deliverables for the directors of the Microsoft Studio:
-
-1. Suggest which types of films are worth focusing on by establishing which genre makes the most profit.
-2. Analyze the monthly average return on investment rate for the suggested genre to determine which month has the best chance of earning profit.
-3. Evaluate how much do the top 50 directors contribute to the total profit to study the impact of the director on the movie production. 
+* Suggest which types of films are worth focusing on by establishing which genre makes the most profit.
+* Analyze the monthly average return on investment rate for the suggested genre to determine which month has the best chance of earning profit.
+* Evaluate how much do the top 50 directors contribute to the total profit to study the impact of the director on the movie production. 
 
 
 -----Summary of the business problem you are trying to solve, and the data questions that you plan to answer in order to solve them.
@@ -40,15 +39,16 @@ We will use the data from the following sources:
 IMDB: There are multiple dataset only including partial informations. The information we will need for the most is the genres and the staffs (directors, writers, actors, production) involved in movie production. 
 
 The relevant dataset we will be using are the followings: 
-`imdb.name.basics.csv.gz`
-`imdb.title.akas.csv.gz`
-`imdb.title.basics.csv.gz`
-`imdb.title.principals.csv.gz`
+
+* `imdb.name.basics.csv.gz`
+* `imdb.title.akas.csv.gz
+* `imdb.title.basics.csv.gz`
+* `imdb.title.principals.csv.gz`
 
 The Number : This dataset includes the production budget and gross profit (both domestic and worldwide). The release date of the film is also included. The economic metrics will be used further to calculate the net profit and return on investment ratio (ROI).
 
 The relevant dataset we will be using are the followings: 
-`tn.movie_budgets.csv.gz`
+* `tn.movie_budgets.csv.gz`
 
 ----Describe the data being used for this project.
 Data was collected from the following websites:
