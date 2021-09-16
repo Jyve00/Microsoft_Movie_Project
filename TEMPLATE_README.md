@@ -33,6 +33,14 @@ Questions to consider:
 ***
 
 ## Data
+We will use the data from the following sources:
+* __[IMDB](https://www.imdb.com/)__
+* __[The Numbers](https://www.the-numbers.com)__
+
+
+IMDB: There are multiple dataset only including partial informations. The information we will need for the most is the genres and the staff involved in movie production. (directors, writers, actors, production).
+
+The Numbers' Film Budgets (`tn.movie_budgets.csv.gz`): this dataset shows us monetary numbers worth considering when planning to produce a film. This includes the initial production budget and gross earning at both a domestic and worldwide scale for the film in question. We are also given the release date of the film for additional context. I intend to match the production budget and worldwide gross earnings wiith IMDB's top films to gain insight. This will be further developed with a new column we'll create - ROI.
 
 ----Describe the data being used for this project.
 Data was collected from the following websites:
