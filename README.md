@@ -105,29 +105,28 @@ Stephen William    | swilliam.productions@gmail.com  |  https://github.com/Jyve0
 
 Commit History:
  
-*Main Branch:    set up Main jupyter notebook and one for each team member. 
-*Main Branch:    unzipped data files and deleted old unused files. 
-*Main Branch:    changed "zippedData" folder to "Data"
-*Main Branch:    README.md updated with info on source of data 
-*Stephen Branch: added Jupyter Notebook containing cleaned TMDB movie data containing release dates
-*Stephen Branch: organized files into seprate folders.
-*Branch Stephen: push to main
-*Main Branch:    added .ipynb_checkpoints and DS_Store to .gitignore"
-*Main Branch:    add .ipynb_checkpoints to .gitignore
-*Stephen Branch: Cloned from Main
-*Derek Branch:   Cloned from Main
-*Paul Branch:    Cloned from Main
-*Derek Branch:   pushed Movie_Project_Draft.ipynb to main
-*Stephen Branch: pushed Visuals folder to main
-*Paul Branch:    pushed jupyter notebook to main
-*Paul Branch:    pushed additions to jupyter notebook to main
-*Stephen Branch: forced pushed graphs and charts saved in visuals
-*Paul Branch:    Push Movie_Project_Draft updated with 3 in 1 bar chart
-*Stephen Branch: Merged with Main branch
-*Stephen Branch: Pushed consolidating files to main
-*Paul Branch:    push Movie_Analysis_for_Microsoft.ipynb to Main
-*Derek Branch:   push Movie_Analysis_for_Microsoft.ipynb to Main 
-*Stephen Branch: push Movie_Analysis_for_Microsoft.ipynb to Main 
-*Stephen Branch: merged with main, added presentation PDF
--
+* Main Branch:    set up Main jupyter notebook and one for each team member. 
+* Main Branch:    unzipped data files and deleted old unused files. 
+* Main Branch:    changed "zippedData" folder to "Data"
+* Main Branch:    README.md updated with info on source of data 
+* Stephen Branch: added Jupyter Notebook containing cleaned TMDB movie data containing release dates
+* Stephen Branch: organized files into seprate folders.
+* Branch Stephen: push to main
+* Main Branch:    added .ipynb_checkpoints and DS_Store to .gitignore"
+* Main Branch:    add .ipynb_checkpoints to .gitignore
+* Stephen Branch: Cloned from Main
+* Derek Branch:   Cloned from Main
+* Paul Branch:    Cloned from Main
+* Derek Branch:   pushed Movie_Project_Draft.ipynb to main
+* Stephen Branch: pushed Visuals folder to main
+* Paul Branch:    pushed jupyter notebook to main
+* Paul Branch:    pushed additions to jupyter notebook to main
+* Stephen Branch: forced pushed graphs and charts saved in visuals
+* Paul Branch:    Push Movie_Project_Draft updated with 3 in 1 bar chart
+* Stephen Branch: Merged with Main branch
+* Stephen Branch: Pushed consolidating files to main
+* Paul Branch:    push Movie_Analysis_for_Microsoft.ipynb to Main
+* Derek Branch:   push Movie_Analysis_for_Microsoft.ipynb to Main 
+* Stephen Branch: push Movie_Analysis_for_Microsoft.ipynb to Main 
+* Stephen Branch: merged with main, added presentation PDF
 
