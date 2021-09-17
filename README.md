@@ -95,9 +95,9 @@ Please review our full analysis in [our Jupyter Notebook](./Analysis.ipynb) or o
 
 For any additional questions, please contact **name, email, Github **
 
-Derek Supino       | supinoderek@gmail.com           |  https://github.com/djs6478
-Hyunwook Paul Shin | paulshin17@gmail.com            |  https://github.com/hps1795
-Stephen William    | swilliam.productions@gmail.com  |  https://github.com/Jyve00
+* Derek Supino       | supinoderek@gmail.com           |  https://github.com/djs6478
+* Hyunwook Paul Shin | paulshin17@gmail.com            |  https://github.com/hps1795
+* Stephen William    | swilliam.productions@gmail.com  |  https://github.com/Jyve00
 
 
 
