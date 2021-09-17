@@ -41,7 +41,7 @@ IMDB: There are multiple dataset only including partial informations. The inform
 The relevant dataset we will be using are the followings: 
 
 * `imdb.name.basics.csv.gz`
-* `imdb.title.akas.csv.gz
+* `imdb.title.akas.csv.gz`
 * `imdb.title.basics.csv.gz`
 * `imdb.title.principals.csv.gz`
 
