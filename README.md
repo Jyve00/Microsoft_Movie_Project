@@ -10,8 +10,6 @@
 This is a project to provide Microsoft with a guide on what goes into creating and releasing a sucessfull movie based on data pulled from several reputable sources. Microsoft has launched its own movie studio but they don't know what tpye of film to release or even who to hire to help create a profitable film. The data was cleaned, organized and analysised to find out what the most sucessfull films of all time had in common with each other. With this information we can present the head of Microsoft's new movie studio what they can do to guarentee a sucessfull movie release.
 
 
------A one-paragraph overview of the project, including the business problem, data, methods, results and recommendations.
-
 ## Business Problem
 
 Micosoft's new film studio has just launched and they are trying to release a sucessfull movie but don't know where to start. With the data we collected and analysed we where able to come up with some questions that we thought where important to a sucessfull movie like "What months generate the most worldwide gross?", "What genres brings in the most profit?", and "What directors have brought in the biggest profits?". We believe these are the most important questions for a new film studio to ask because overall these are variables that can be closely connected to generating a profit.
@@ -21,15 +19,6 @@ We have 3 deliverables for the directors of the Microsoft Studio:
 * Analyze the monthly average return on investment rate for the suggested genre to determine which month has the best chance of earning profit.
 * Evaluate how much do the top 50 directors contribute to the total profit to study the impact of the director on the movie production. 
 
-
------Summary of the business problem you are trying to solve, and the data questions that you plan to answer in order to solve them.
-
-***
-Questions to consider:
-* What are the business's pain points related to this project?
-* How did you pick the data analysis question(s) that you did?
-* Why are these questions important from a business perspective?
-***
 
 ## Data
 We will use the data from the following sources:
@@ -61,30 +50,12 @@ https://www.kaggle.com/stefanoleone992/imdb-extensive-dataset
 https://www.imdb.com/interfaces/
 
 
-
-
-
-***
-Questions to consider:
-* Where did the data come from, and how do they relate to the data analysis questions?
-* What do the data represent? Who is in the sample and what variables are included?
-* What is the target variable?
-* What are the properties of the variables you intend to use?
-***
-
 ## Methods
 
------Describe the process for analyzing or modeling the data. For Phase 1, this will be descriptive analysis.
 
 The several Imdb data sets where connected using movie and crew ID's to connect movie titles with their correct release date, budget, gross, crew members and genre's. Some data was missing so we further connected the movie titles and crew names with other data sets from Rotten Tomatoes and Numbers.com. With this method we can consolidate the data into just a few usefull tables that make it easier to analyse and cut out data that we don't find usefull. 
 
 
-
-***
-Questions to consider:
-* How did you prepare, analyze or model the data?
-* Why is this approach appropriate given the data and the business problem?
-***
 
 ## Results
 ### Genres with Top Average Net Profit
@@ -103,12 +74,6 @@ Another result that we came up with is what directors are associated with genera
 
 
 
-
-Here is an example of how to embed images from your sub-folder:
-
-### Visual 1
-![graph1](./images/viz1.png)
-
 ## Conclusions
 
 ***Go for Top 3 Genres***
@@ -116,6 +81,7 @@ Based on our analysis, the top 3 film genres were **Adventure**, **Animation**, 
 ***Aim Summerbreak***
 The bar chart indicates that there is a **peak in early summer**. We assume this is due to the reasons such as kids are out of school and many parents are taking vacation time for **June and July**. This is most significant for Animation movies because their primary target is young children and their parents. For Sci-Fi movie, average ROI in December is empty. This is because average ROI is about 1.67% and it is too small compared to other month’s ROIs. Else than this value, ROI tends to show a little more constant on average ROI over the year compared to the Adventure and Animation.
 ***Top 50 Directors***
+With our analysis we have discovered that since 2010 the top 50 directors based on movie profits are responisble for 46% of the total movie profits generated. This provides us with a long list of potential directors who have a history of creating profitable movies and lowers Microsoft's risk. 
  
 
 ## For More Information
