@@ -54,15 +54,6 @@ The relevant dataset we will be using are the followings:
 * `tn.movie_budgets.csv.gz`
 
 
-Data was collected from the following websites:
-    -https://datasets.imdbws.com/
-    -https://www.kaggle.com/stefanoleone992/rotten-tomatoes-movies-and-critic-reviews-dataset?select=rotten_tomatoes_movies.csv
-    
-
-
-https://www.kaggle.com/stefanoleone992/imdb-extensive-dataset
-https://www.imdb.com/interfaces/
-
 
 ## Methods
 
@@ -80,7 +71,7 @@ The several Imdb data sets where connected using movie and crew ID's to connect 
 
 ### Impact of Top 50 Driector
 ![graph3](./Visuals/Directors_Pie_chart.png)
---------Present your key results. For Phase 1, this will be findings from your descriptive analysis.
+
 
 The results that we came up with based on our analytics is when is the best month to release a movie of a certain genre that typically brings in a large worldwide gross. We came to these rusults by finding the genres that produce the most profit and find the best performing months for those genres. So we can recomend to Microsoft that making an Animation movie will most likely generate a profit and to ensure that the movie will perform as best as it can we can also recomend that Microsoft release an Animated film in the month of June because based on historic data, Animated movies bring in the most Box Office Gross in the month of June. 
 
@@ -100,9 +91,10 @@ With our analysis we have discovered that since 2010 the top 50 directors based 
 
 ## For More Information
 
-Please review our full analysis in [our Jupyter Notebook](./dsc-phase1-project-template.ipynb) or our [presentation](./DS_Project_Presentation.pdf).
+Please review our full analysis in [our Jupyter Notebook](./Analysis.ipynb) or our [presentation](./Presentation.pdf).
 
-For any additional questions, please contact **name & email, name & email**
+For any additional questions, please contact **name, email, Github **
+
 Derek Supino       | supinoderek@gmail.com           |  https://github.com/djs6478
 Hyunwook Paul Shin | paulshin17@gmail.com            |  https://github.com/hps1795
 Stephen William    | swilliam.productions@gmail.com  |  https://github.com/Jyve00
@@ -137,4 +129,5 @@ Commit History:
 -Derek Branch:   push Movie_Analysis_for_Microsoft.ipynb to Main 
 -Stephen Branch: push Movie_Analysis_for_Microsoft.ipynb to Main 
 -Stephen Branch: merged with main, added presentation PDF
+-
 
