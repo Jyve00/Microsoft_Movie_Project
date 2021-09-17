@@ -120,8 +120,7 @@ Here is an example of how to embed images from your sub-folder:
 
 * **Go for Top 3 Genres.** Based on our analysis, the top 3 film genres were **Adventure**, **Animation**, and **Sci-Fi**. These three films has highest net profit. While Musical has a similar net profit, we excluded from our genre suggestion because there are only 6 musical movies contained on the list, while top 3 contains at least 100 movies.
 * **Aim Summerbreak.** The bar chart indicates that there is a **peak in early summer**. We assume this is due to the reasons such as kids are out of school and many parents are taking vacation time for **June and July**. This is most significant for Animation movies because their primary target is young children and their parents. For Sci-Fi movie, average ROI in December is empty. This is because average ROI is about 1.67% and it is too small compared to other month’s ROIs. Else than this value, ROI tends to show a little more constant on average ROI over the year compared to the Adventure and Animation.
-* **Top 50 Directors.**
-
+* **Top 50 Directors.** 
 ***
 Questions to consider:
 * What would you recommend the business do as a result of this work?
