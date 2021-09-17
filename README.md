@@ -2,7 +2,7 @@
 
 **Authors**: Hyunwook Paul Shin, Derek Supino and Stephen William
 
-https://images.squarespace-cdn.com/content/v1/5817f843579fb366cecb8e9a/1610030522633-QNYMAAV89SWZ97BJW46C/theater.jpg?format=1000w
+![Theater](https://images.squarespace-cdn.com/content/v1/5817f843579fb366cecb8e9a/1610030522633-QNYMAAV89SWZ97BJW46C/theater.jpg?format=1000w)
 
 
 ## Overview
