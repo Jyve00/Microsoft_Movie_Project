@@ -4,6 +4,20 @@
 
 ![Theater](https://images.squarespace-cdn.com/content/v1/5817f843579fb366cecb8e9a/1610030522633-QNYMAAV89SWZ97BJW46C/theater.jpg?format=1000w)
 
+## Repository Structure
+
+Describe the structure of your repository and its contents, for example:
+
+```
+├── Data                                <- Contains the raw datasets
+├── Visuals                             <- Folder containing charts and graphs generated from code 
+├── .gitignore                          <- Refrence to types of files for Github to ignore
+├── Analysis.ipynb                      <- Analysis broken down with Jupyter Notebook
+├── Presentation.pdf                    <- PDF version of project presentation for Microsoft
+└── README.md                           <- Outline and Repo overview
+
+```
+
 
 ## Overview
 
@@ -39,7 +53,7 @@ The Number : This dataset includes the production budget and gross profit (both 
 The relevant dataset we will be using are the followings: 
 * `tn.movie_budgets.csv.gz`
 
-----Describe the data being used for this project.
+
 Data was collected from the following websites:
     -https://datasets.imdbws.com/
     -https://www.kaggle.com/stefanoleone992/rotten-tomatoes-movies-and-critic-reviews-dataset?select=rotten_tomatoes_movies.csv
@@ -89,37 +103,38 @@ With our analysis we have discovered that since 2010 the top 50 directors based 
 Please review our full analysis in [our Jupyter Notebook](./dsc-phase1-project-template.ipynb) or our [presentation](./DS_Project_Presentation.pdf).
 
 For any additional questions, please contact **name & email, name & email**
+Derek Supino       | supinoderek@gmail.com           |  https://github.com/djs6478
+Hyunwook Paul Shin | paulshin17@gmail.com            |  https://github.com/hps1795
+Stephen William    | swilliam.productions@gmail.com  |  https://github.com/Jyve00
 
-## Repository Structure
 
-Describe the structure of your repository and its contents, for example:
-
-```
-├── README.md                           <- The top-level README for reviewers of this project
-├── Main.ipynb                          <- Narrative documentation of analysis in Jupyter notebook
-├── Presentation.pdf                    <- PDF version of project presentation for Microsoft
-├── Data                                <- Contains raw data
-└── Visuals                             <- Charts and graphs Generated from code 
-```
 
 
 
 Commit History:
-
-First 45 commits consisted of setting up the main repo, all group members branches and organizing of files and folders. 
-set up Main jupyter notebook and one for each team member. 
-unzipped data files and deleted old unused files. 
-changed "zippedData" folder to "Data"
-README.md updated with info on source of data 
-Branch Stephen added Jupyter Notebook containing cleaned TMDB movie data containing release dates
-Branch Stephen organized files into seprate folders.
-Branch Stephen push to main
-On Main Branch git commit -m "added .ipynb_checkpoints and DS_Store to .gitignore"
-On main branch git commit -m "moving .ipynb_checkpoints to .gitignore"
-From Branch Derek push Movie_Project_Draft.ipynb to main
-Main branch merged with branch Stephen
-git commit -m "adding 3in1 bar chart"
-git commit -m "graphs and charts saved in visuals"
-Paul Branch Push Movie_Project_Draft updated with 3 in 1 bar chart
-(new-env) Stephens-MBP:MovieProject stephen$ git commit -m "cleaning file structure"
+ 
+-Main Branch:    set up Main jupyter notebook and one for each team member. 
+-Main Branch:    unzipped data files and deleted old unused files. 
+-Main Branch:    changed "zippedData" folder to "Data"
+-Main Branch:    README.md updated with info on source of data 
+-Stephen Branch: added Jupyter Notebook containing cleaned TMDB movie data containing release dates
+-Stephen Branch: organized files into seprate folders.
+-Branch Stephen: push to main
+-Main Branch:    added .ipynb_checkpoints and DS_Store to .gitignore"
+-Main Branch:    add .ipynb_checkpoints to .gitignore
+-Stephen Branch: Cloned from Main
+-Derek Branch:   Cloned from Main
+-Paul Branch:    Cloned from Main
+-Derek Branch:   pushed Movie_Project_Draft.ipynb to main
+-Stephen Branch: pushed Visuals folder to main
+-Paul Branch:    pushed jupyter notebook to main
+-Paul Branch:    pushed additions to jupyter notebook to main
+-Stephen Branch: forced pushed graphs and charts saved in visuals
+-Paul Branch:    Push Movie_Project_Draft updated with 3 in 1 bar chart
+-Stephen Branch: Merged with Main branch
+-Stephen Branch: Pushed consolidating files to main
+-Paul Branch:    push Movie_Analysis_for_Microsoft.ipynb to Main
+-Derek Branch:   push Movie_Analysis_for_Microsoft.ipynb to Main 
+-Stephen Branch: push Movie_Analysis_for_Microsoft.ipynb to Main 
+-Stephen Branch: merged with main, added presentation PDF
 
